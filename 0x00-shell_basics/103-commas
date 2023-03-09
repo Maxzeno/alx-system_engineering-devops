@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ap | awk '{printf "%s, ",$0} END {printf "\n"}' | sed 's/,[[:space:]]*$/\n/'
+ls -ap | awk '{printf "%s, ",$0} END {printf "\n"}' | sed 's/,[[:space:]]*$//'
