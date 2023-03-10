@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "play"
+telnet towel.blinkenlights.nl
