@@ -1,3 +1,0 @@
-ALX project
-
-Application server

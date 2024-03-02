@@ -1,3 +1,0 @@
-Alx project
-
-API advanced
