@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """Function to count words in all hot posts of a given Reddit subreddit."""
+
 import requests
 
 
@@ -15,7 +16,7 @@ def count_words(subreddit, word_list, instances={}, after="", count=0):
     """
     url = f"https://www.reddit.com/r/{subreddit}/hot/.json"
     headers = {
-        "User-Agent": "linux:0x16.api.advanced:v1.0.0 (by /u/bdov_)"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
     }
     params = {
         "after": after,
