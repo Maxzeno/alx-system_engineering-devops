@@ -1,3 +1,3 @@
-ALX project
+ALX Project
 
 Webstack monitoring
