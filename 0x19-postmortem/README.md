@@ -47,10 +47,7 @@ In conclusion, the outage was caused by a misconfiguration in the service's main
 
 To ensure such issues are promptly addressed, I have written a Puppet manifest which replaces any incorrect file paths in the configuration file.
 
-Remember, while we aim for perfection, errors are inevitable. It's how we respond and learn from them that defines our success as engineers. :wink:
+Remember, while we aim for perfection, errors are inevitable. It's how we respond and learn from them that defines our success as engineers.
 
----
-
-You can upload this improved postmortem to your GitHub repository and blog. Here are the URLs to include:
 
 - [GitHub Repository Postmortem](https://github.com/Maxzeno/alx-system_engineering-devops/blob/main/0x19-postmortem/README.md)
