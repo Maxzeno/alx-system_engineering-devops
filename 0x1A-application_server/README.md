@@ -1,3 +1,1 @@
-Alx project
-
-Application server
+# APPLICATION SERVER
